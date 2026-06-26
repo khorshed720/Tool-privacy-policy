@@ -1,0 +1,6 @@
+{
+  "name": "Tool Box Elite Privacy Policy",
+  "description": "Legally compliant, professional Privacy Policy generator and previewer for the Tool Box Elite Android application by Quantum Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
